@@ -1,4 +1,4 @@
-# Dissease-Insight
+# Disease-Insight
 
 ## Description
 A Python program for exploring and visualizing an Alzheimer's dataset. It provides insights into deaths by age group, gender, race/ethnicity, causes of death, and correlations between causes. Users can interactively query and visualize the data through a command-line interface.
